@@ -2,7 +2,9 @@
   box-sizing:0px;
   margin:0px;
 }
-.heading1{
+.head1{
   background: black;
   width:100%;
+  color:antiquewhite;
+  text-align: center;
 }
